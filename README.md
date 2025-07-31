@@ -1,7 +1,4 @@
-- Hello, I’m @HOIBOI otherwise known as FALLECY
-- I’m interested in modding, simple programs, and game dev.
-- I’m currently learning many things at once but particulary c#
-- You can reach me on discord Fallecy
+- Hello, I’m @HOIBOI otherwise known as FALLECY, or dmerced
 
 ===========================================================================
 
